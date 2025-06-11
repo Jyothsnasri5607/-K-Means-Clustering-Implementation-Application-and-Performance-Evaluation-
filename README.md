@@ -47,8 +47,7 @@ pip install numpy pandas scikit-learn matplotlib
 - **Centroids of clusters** plotted in red.
 
 
-## License
-This project is licensed under the MIT License.
+
 
 ## Author
 Lukka Harshitha - [ GitHub Profile("https://github.com/Harshitha14-05")]
