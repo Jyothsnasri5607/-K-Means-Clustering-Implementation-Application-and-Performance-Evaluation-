@@ -19,6 +19,8 @@ To run this project, install the necessary dependencies:
 pip install numpy pandas scikit-learn matplotlib
 ```
 
+and also uses standard scalar for perfect output.
+
 ## Usage
 1. **Clone the repository**:
    ```bash
